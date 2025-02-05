@@ -8,7 +8,7 @@
  I'm a passionate full stack developer based in Toronto, ON. My journey in the tech world has been filled with learning, growth, and the pursuit of innovation. I'm always eager to explore new technologies and contribute to projects that make a difference.
 </h3>
 
-### 🔭 I’m currently working at **Viral Nation**
+### 🔭 I’m currently looking for work :)
 
 ### 📫 How to reach me **caolan.fanning@gmail.com**
 
